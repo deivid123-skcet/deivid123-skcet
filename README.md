@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com suporte a aplicações JBOSS/APACHE/DOCKER
-- 🌱 Estou estudando sobre a metodologia DevOPS e suas ferramentas.
+- 🌱 Estou estudando sobre a Cultura DevOPS e suas ferramentas.
 
 
 <div align="center">
